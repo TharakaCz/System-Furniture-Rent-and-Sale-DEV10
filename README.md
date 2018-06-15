@@ -9,4 +9,4 @@ anuradha
 samishka
 tharaka
 
-This reporasotry Crashed Next Reporasotory Link https://github.com/TharakaCz/Anjular_5
+This reporasotry Crashed Next Reporasotory Link https://github.com/TharakaCz/Anjular-Web-Project
